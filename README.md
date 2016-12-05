@@ -5,7 +5,7 @@
 
 ## Run `go run main.go + http://example.com` to run the app, run `go build main.go` to build an executable file. 
 
-### Check out the Youtube Tutorial for this Go Program. [video](https://youtu.be/9HZeKtIbJg4) Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/9HZeKtIbJg4).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
